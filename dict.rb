@@ -70,7 +70,7 @@ module Dict
         # Prints out what's in the Dict.
         aDict.each do |bucket|
             if bucket
-                bucket.each {|k, v|} puts k, v}
+                bucket.each {|k, v| puts k, v}
             end
         end
     end
