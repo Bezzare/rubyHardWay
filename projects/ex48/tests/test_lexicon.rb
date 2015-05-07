@@ -1,4 +1,4 @@
-require "./ex48/lexicon.rb"
+require "ex48/lexicon.rb"
 require "test/unit"
 
 class TestNAME < Test::Unit::TestCase
